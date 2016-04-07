@@ -1,0 +1,680 @@
+0000.000 (0) Opened log file at time: Mon, 21 Mar 2016 03:48:01 +0000 on http://www.clubhouseimprov.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.6.17 (Linux box658.bluehost.com 3.12.52-20160119.106.ELK6.x86_64 #1 SMP Tue Jan 19 16:53:32 CST 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.1M | 10M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.159 (0) Free space on disk containing Updraft's temporary directory: 144010.6 Mb
+0000.164 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.165 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.175 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.178 (0) Set semaphore last lock (fd) time to 2016-03-21 03:48:01
+0000.179 (0) Semaphore lock (fd) complete
+0000.186 (0) Backup run: resumption=0, nonce=e10bb3205381, begun at=1458532081 (0s ago), job type=backup
+0000.189 (0) Scheduling a resumption (1) after 463 seconds (1458532544) in case this run gets aborted
+0000.218 (0) Checking if we have a zip executable available
+0000.219 (0) Testing: /usr/bin/zip
+0000.227 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.230 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.232 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.234 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0000.235 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0000.242 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0000.244 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0000.268 (0) Working binary zip found: /usr/bin/zip
+0000.271 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.272 (0) Creation of backups of directories: beginning
+0000.277 (0) Beginning creation of dump of plugins (split every: 400 Mb)
+0001.979 (0) Total entities for the zip file: 900 directories, 6247 files (0 skipped as non-modified), 96.4 Mb
+0002.000 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0002.014 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0002.019 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0002.026 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0002.042 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0002.048 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.3 Mb, 6247 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0006.120 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: size is now: 5.50 Mb
+0006.133 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 600 files added (on-disk size: 5681.2 Kb)
+0006.140 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 700 files added (on-disk size: 5681.2 Kb)
+0006.147 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 800 files added (on-disk size: 5681.2 Kb)
+0006.152 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 900 files added (on-disk size: 5681.2 Kb)
+0006.159 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1000 files added (on-disk size: 5681.2 Kb)
+0006.161 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.6 Mb, 6247 files batched, 501 (1002) added so far); re-opening (prior size: 5681.2 Kb)
+0006.816 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1100 files added (on-disk size: 6383 Kb)
+0006.821 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1200 files added (on-disk size: 6383 Kb)
+0006.828 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1300 files added (on-disk size: 6383 Kb)
+0006.844 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1400 files added (on-disk size: 6383 Kb)
+0006.849 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1500 files added (on-disk size: 6383 Kb)
+0006.851 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.2 Mb, 6247 files batched, 501 (1503) added so far); re-opening (prior size: 6383 Kb)
+0008.043 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: size is now: 8.30 Mb
+0008.052 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1600 files added (on-disk size: 8537.7 Kb)
+0008.058 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1700 files added (on-disk size: 8537.7 Kb)
+0008.063 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1800 files added (on-disk size: 8537.7 Kb)
+0008.070 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 1900 files added (on-disk size: 8537.7 Kb)
+0008.076 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2000 files added (on-disk size: 8537.7 Kb)
+0008.078 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.5 Mb, 6247 files batched, 501 (2004) added so far); re-opening (prior size: 8537.7 Kb)
+0008.511 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: size is now: 10.40 Mb
+0008.517 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2100 files added (on-disk size: 10600.3 Kb)
+0008.521 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2200 files added (on-disk size: 10600.3 Kb)
+0008.525 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2300 files added (on-disk size: 10600.3 Kb)
+0008.531 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2400 files added (on-disk size: 10600.3 Kb)
+0008.537 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2500 files added (on-disk size: 10600.3 Kb)
+0008.538 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.5 Mb, 6247 files batched, 501 (2505) added so far); re-opening (prior size: 10600.3 Kb)
+0009.115 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2600 files added (on-disk size: 12473.3 Kb)
+0009.122 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2700 files added (on-disk size: 12473.3 Kb)
+0009.127 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2800 files added (on-disk size: 12473.3 Kb)
+0009.133 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 2900 files added (on-disk size: 12473.3 Kb)
+0009.138 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3000 files added (on-disk size: 12473.3 Kb)
+0009.140 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.7 Mb, 6247 files batched, 501 (3006) added so far); re-opening (prior size: 12473.3 Kb)
+0009.577 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: size is now: 14.80 Mb
+0009.614 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3100 files added (on-disk size: 15120.6 Kb)
+0009.620 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3200 files added (on-disk size: 15120.6 Kb)
+0009.719 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3300 files added (on-disk size: 15120.6 Kb)
+0009.728 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3400 files added (on-disk size: 15120.6 Kb)
+0009.733 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3500 files added (on-disk size: 15120.6 Kb)
+0009.735 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 Mb, 6247 files batched, 501 (3507) added so far); re-opening (prior size: 15120.6 Kb)
+0010.343 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3600 files added (on-disk size: 16452 Kb)
+0010.348 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3700 files added (on-disk size: 16452 Kb)
+0010.352 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3800 files added (on-disk size: 16452 Kb)
+0010.356 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 3900 files added (on-disk size: 16452 Kb)
+0010.359 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4000 files added (on-disk size: 16452 Kb)
+0010.360 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 Mb, 6247 files batched, 501 (4008) added so far); re-opening (prior size: 16452 Kb)
+0011.340 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4100 files added (on-disk size: 19211.8 Kb)
+0011.344 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4200 files added (on-disk size: 19211.8 Kb)
+0011.349 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4300 files added (on-disk size: 19211.8 Kb)
+0011.354 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4400 files added (on-disk size: 19211.8 Kb)
+0011.358 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4500 files added (on-disk size: 19211.8 Kb)
+0011.360 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.8 Mb, 6247 files batched, 501 (4509) added so far); re-opening (prior size: 19211.8 Kb)
+0011.965 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4600 files added (on-disk size: 22038.5 Kb)
+0011.970 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4700 files added (on-disk size: 22038.5 Kb)
+0011.976 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4800 files added (on-disk size: 22038.5 Kb)
+0011.981 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 4900 files added (on-disk size: 22038.5 Kb)
+0011.985 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5000 files added (on-disk size: 22038.5 Kb)
+0011.987 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10 Mb, 6247 files batched, 501 (5010) added so far); re-opening (prior size: 22038.5 Kb)
+0012.715 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5100 files added (on-disk size: 25246.2 Kb)
+0012.720 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5200 files added (on-disk size: 25246.2 Kb)
+0012.726 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5300 files added (on-disk size: 25246.2 Kb)
+0012.731 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5400 files added (on-disk size: 25246.2 Kb)
+0012.736 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5500 files added (on-disk size: 25246.2 Kb)
+0012.738 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.6 Mb, 6247 files batched, 501 (5511) added so far); re-opening (prior size: 25246.2 Kb)
+0013.572 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5600 files added (on-disk size: 28893.8 Kb)
+0013.582 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5700 files added (on-disk size: 28893.8 Kb)
+0013.592 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5800 files added (on-disk size: 28893.8 Kb)
+0013.602 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 5900 files added (on-disk size: 28893.8 Kb)
+0013.612 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 6000 files added (on-disk size: 28893.8 Kb)
+0013.629 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.7 Mb, 6247 files batched, 501 (6012) added so far); re-opening (prior size: 28893.8 Kb)
+0014.087 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 6100 files added (on-disk size: 32394.4 Kb)
+0014.091 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip.tmp: 6200 files added (on-disk size: 32394.4 Kb)
+0014.573 (0) Created plugins zip (0) - 34040.8 Kb in 13.6 s (2507.8 Kb/s) (SHA1 checksum: 6f32020ab39f75122a3203610f706e8b333fb571)
+0014.576 (0) Beginning creation of dump of themes (split every: 400 Mb)
+0014.775 (0) Total entities for the zip file: 71 directories, 554 files (0 skipped as non-modified), 20.6 Mb
+0014.781 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0014.787 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0014.793 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0014.799 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0014.804 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0014.806 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.8 Mb, 554 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0016.043 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip.tmp: size is now: 6.20 Mb
+0016.374 (0) Created themes zip (0) - 6906.7 Kb in 1.6 s (4255 Kb/s) (SHA1 checksum: ebb36d6a2f6bb72915a69c850811d594588d86e9)
+0016.393 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0016.395 (0) Looking for candidates to back up in: /home5/clubhov2/public_html/wp-content/uploads
+0016.397 (0) finding files: IMGP0012-300x225.jpg: adding to list (1)
+0016.399 (0) finding files: #Hashtags with Hat-Trick_Main-400x250.jpg: adding to list (2)
+0016.401 (0) finding files: Midnight_Snack-Main-791x1024.jpg: adding to list (3)
+0016.406 (0) finding files: CCABARET_main-400x250.jpg: adding to list (4)
+0016.412 (0) finding files: Goldmonster poster-400x250.jpg: adding to list (5)
+0016.428 (0) finding files: Are_You_Afraid_of_the Dark_People-Main-400x250.jpg: adding to list (6)
+0016.432 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main-768x768.png: adding to list (7)
+0016.433 (0) finding files: PURGATORY_MAIN-791x1024.jpg: adding to list (8)
+0016.434 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main-400x284.png: adding to list (9)
+0016.436 (0) finding files: IMGP0012-400x250.jpg: adding to list (10)
+0016.437 (0) finding files: Gangbusters-Submission_588-150x150.png: adding to list (11)
+0016.438 (0) finding files: Goldmonster poster-768x594.jpg: adding to list (12)
+0016.440 (0) finding files: Submission-768x576.jpg: adding to list (13)
+0016.441 (0) finding files: Midnight_Snack-Main-1080x675.jpg: adding to list (14)
+0016.442 (0) finding files: EBG BANNER BLUE BLK 450x450-400x250.jpg: adding to list (15)
+0016.443 (0) finding files: Mobile-Chalkboard-150x150.jpg: adding to list (16)
+0016.445 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main.png: adding to list (17)
+0016.446 (0) finding files: 110-bug.png: adding to list (18)
+0016.446 (0) finding files: PURGATORY_MAIN.jpg: adding to list (19)
+0016.447 (0) finding files: Improv_Against_Humanity-Main-768x260.jpg: adding to list (20)
+0016.448 (0) finding files: Boss Jr.-Main-400x284.png: adding to list (21)
+0016.449 (0) finding files: 11692637_1025488080802452_8781616548321655184_n_787-300x113.png: adding to list (22)
+0016.451 (0) finding files: Are_You_Afraid_of_the Dark_People-Main-300x161.jpg: adding to list (23)
+0016.452 (0) finding files: ariana_manny_music_party-square.jpg: adding to list (24)
+0016.453 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main-150x150.png: adding to list (25)
+0016.454 (0) finding files: The Very Professional Show_Main_Square.jpg: adding to list (26)
+0016.455 (0) finding files: Manifesto user icon 500x500-300x300.jpg: adding to list (27)
+0016.456 (0) finding files: Organizer-1080x675.jpg: adding to list (28)
+0016.456 (0) finding files: 12713925_10154465406274989_1216109031_n.jpg: adding to list (29)
+0016.457 (0) finding files: EBG BANNER BLUE BLK 450x450.jpg: adding to list (30)
+0016.459 (0) finding files: CRASH_THIS_PARTY-ORGANIZER-150x150.jpg: adding to list (31)
+0016.460 (0) finding files: PURGATORY_MAIN-232x300.jpg: adding to list (32)
+0016.460 (0) finding files: Manifesto user icon 500x500-400x284.jpg: adding to list (33)
+0016.461 (0) finding files: Manifesto user icon 500x500-400x250.jpg: adding to list (34)
+0016.462 (0) finding files: Gangbusters-Organizer_259-150x150.png: adding to list (35)
+0016.463 (0) finding files: Goldmonster poster-150x150.jpg: adding to list (36)
+0016.464 (0) finding files: CCABARET_main-150x150.jpg: adding to list (37)
+0016.465 (0) finding files: MiddlespoonWompLogo-150x150.png: adding to list (38)
+0016.465 (0) finding files: hatemailshow-post_card.jpg: adding to list (39)
+0016.466 (0) finding files: Gangbusters-Organizer_259-400x284.png: adding to list (40)
+0016.467 (0) finding files: #Hashtags with Hat-Trick_Main-150x150.jpg: adding to list (41)
+0016.468 (0) finding files: CCABARET_main-768x768.jpg: adding to list (42)
+0016.469 (0) finding files: hashtags_with_hat-trick-1-400x284.jpg: adding to list (43)
+0016.470 (0) finding files: Gangbusters-Organizer_259-300x300.png: adding to list (44)
+0016.471 (0) finding files: MiddlespoonWompLogo-400x284.png: adding to list (45)
+0016.472 (0) finding files: participants-database: adding to list (46)
+0016.472 (0) finding files: Improv_Against_Humanity-Main-150x150.jpg: adding to list (47)
+0016.473 (0) finding files: CCABARET_main-300x300.jpg: adding to list (48)
+0016.474 (0) finding files: Pulled poster-400x284.jpg: adding to list (49)
+0016.475 (0) finding files: The Very Professional Show_Organizer.png: adding to list (50)
+0016.476 (0) finding files: Gangbusters-Submission_588-300x300.png: adding to list (51)
+0016.476 (0) finding files: everyones-great-square_500px.jpg: adding to list (52)
+0016.476 (0) finding files: Pulled poster-1080x1375.jpg: adding to list (53)
+0016.476 (0) finding files: sherane.jpeg: adding to list (54)
+0016.476 (0) finding files: Midnight_Snack-Main-400x250.jpg: adding to list (55)
+0016.477 (0) finding files: IMGP0012-1024x768.jpg: adding to list (56)
+0016.477 (0) finding files: The Very Professional Show_Main_Square-150x150.jpg: adding to list (57)
+0016.477 (0) finding files: Submission-1080x675.jpg: adding to list (58)
+0016.477 (0) finding files: Mobile-Chalkboard-400x250.jpg: adding to list (59)
+0016.477 (0) finding files: Organizer.jpg: adding to list (60)
+0016.477 (0) finding files: doublethreat.jpg: adding to list (61)
+0016.477 (0) finding files: Pulled poster-1080x675.jpg: adding to list (62)
+0016.477 (0) finding files: Organizer-1080x608.jpg: adding to list (63)
+0016.477 (0) finding files: Midnight_Snack-Main-150x150.jpg: adding to list (64)
+0016.477 (0) finding files: ninja-forms-submission.csv: adding to list (65)
+0016.477 (0) finding files: #Hashtags with Hat-Trick_Main-1080x675.jpg: adding to list (66)
+0016.477 (0) finding files: The Very Professional Show_Main_Square-300x300.jpg: adding to list (67)
+0016.477 (0) finding files: Main-768x1011.jpg: adding to list (68)
+0016.477 (0) finding files: CCABARET_main.jpg: adding to list (69)
+0016.477 (0) finding files: Pulled poster-400x250.jpg: adding to list (70)
+0016.477 (0) finding files: Boss Jr.-Main-400x250.png: adding to list (71)
+0016.477 (0) finding files: Main-1080x675.jpg: adding to list (72)
+0016.477 (0) finding files: CRASH_THIS_PARTY-ORGANIZER-400x250.jpg: adding to list (73)
+0016.478 (0) finding files: Midnight_Snack-Main-1080x1398.jpg: adding to list (74)
+0016.478 (0) finding files: Group_Shower_Main_Poster-150x150.jpg: adding to list (75)
+0016.478 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main-400x250.png: adding to list (76)
+0016.478 (0) finding files: Gangbusters-Main_965-400x284.png: adding to list (77)
+0016.478 (0) finding files: Main-228x300.jpg: adding to list (78)
+0016.478 (0) finding files: Gangbusters-Main_965-150x150.png: adding to list (79)
+0016.478 (0) finding files: hashtags_with_hat-trick.jpg: adding to list (80)
+0016.478 (0) finding files: Submission-300x225.jpg: adding to list (81)
+0016.478 (0) finding files: 110-bug-e1457476181559.png: adding to list (82)
+0016.478 (0) finding files: Submission.jpg: adding to list (83)
+0016.478 (0) finding files: MiddlespoonWompLogo-677x675.png: adding to list (84)
+0016.478 (0) finding files: The Very Professional Show_Organizer-400x250.png: adding to list (85)
+0016.478 (0) finding files: Mobile-Chalkboard-60x300.jpg: adding to list (86)
+0016.478 (0) finding files: Organizer-150x150.jpg: adding to list (87)
+0016.478 (0) finding files: 11692637_1025488080802452_8781616548321655184_n_787-400x284.png: adding to list (88)
+0016.478 (0) finding files: Goldmonster poster-400x284.jpg: adding to list (89)
+0016.478 (0) finding files: Submission-400x250.jpg: adding to list (90)
+0016.478 (0) finding files: Gangbusters-Main_965.png: adding to list (91)
+0016.478 (0) finding files: #Hashtags with Hat-Trick_Main-190x300.jpg: adding to list (92)
+0016.479 (0) finding files: Submission-150x150.jpg: adding to list (93)
+0016.479 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main-1000x675.png: adding to list (94)
+0016.479 (0) finding files: Group_Shower_Main_Poster-232x300.jpg: adding to list (95)
+0016.479 (0) finding files: 11692637_1025488080802452_8781616548321655184_n_787-150x150.png: adding to list (96)
+0016.479 (0) finding files: Submission-400x284.jpg: adding to list (97)
+0016.479 (0) finding files: PURGATORY_MAIN-1080x675.jpg: adding to list (98)
+0016.479 (0) finding files: PURGATORY_MAIN-400x250.jpg: adding to list (99)
+0016.479 (0) finding files: Hat-Trick_Team Photo-400x284.jpg: adding to list (100)
+0016.481 (0) finding files: IMGP0012.jpg: adding to list (101)
+0016.481 (0) finding files: Boss Jr.-Main-150x150.png: adding to list (102)
+0016.481 (0) finding files: Hat-Trick_Team Photo-400x250.jpg: adding to list (103)
+0016.481 (0) finding files: Group_Shower_Main_Poster-741x675.jpg: adding to list (104)
+0016.481 (0) finding files: hashtags_with_hat-trick-1-150x150.jpg: adding to list (105)
+0016.481 (0) finding files: The Very Professional Show_Main_Square-400x250.jpg: adding to list (106)
+0016.481 (0) finding files: The Very Professional Show_Organizer-400x284.png: adding to list (107)
+0016.481 (0) finding files: Main-400x284.jpg: adding to list (108)
+0016.481 (0) finding files: Pulled poster-150x150.jpg: adding to list (109)
+0016.481 (0) finding files: Are_You_Afraid_of_the Dark_People-Main.jpg: adding to list (110)
+0016.481 (0) finding files: 2015: adding to list (111)
+0016.481 (0) finding files: Gangbusters-Organizer_259.png: adding to list (112)
+0016.481 (0) finding files: ImprovLA-Main-150x150.jpg: adding to list (113)
+0016.481 (0) finding files: Pulled poster-768x978.jpg: adding to list (114)
+0016.481 (0) finding files: Organizer-768x432.jpg: adding to list (115)
+0016.481 (0) finding files: IMGP0012-768x576.jpg: adding to list (116)
+0016.481 (0) finding files: Gangbusters-Submission_588-400x284.png: adding to list (117)
+0016.481 (0) finding files: MiddlespoonWompLogo-400x250.png: adding to list (118)
+0016.481 (0) finding files: MiddlespoonWompLogo-297x300.png: adding to list (119)
+0016.481 (0) finding files: The Very Professional Show_Organizer-150x150.png: adding to list (120)
+0016.482 (0) finding files: The Very Professional Show_Organizer-768x284.png: adding to list (121)
+0016.482 (0) finding files: The Very Professional Show_Organizer-300x111.png: adding to list (122)
+0016.482 (0) finding files: Hat-Trick_Team Photo-756x1024.jpg: adding to list (123)
+0016.482 (0) finding files: Gangbusters-Organizer_259-400x250.png: adding to list (124)
+0016.482 (0) finding files: Hat-Trick_Team Photo-1048x675.jpg: adding to list (125)
+0016.482 (0) finding files: #Hashtags with Hat-Trick_Main-768x1210.jpg: adding to list (126)
+0016.482 (0) finding files: IMGP0012-150x150.jpg: adding to list (127)
+0016.482 (0) finding files: MiddlespoonWompLogo.png: adding to list (128)
+0016.482 (0) finding files: Main-400x250.jpg: adding to list (129)
+0016.482 (0) finding files: ImprovLA-Main-1080x675.jpg: adding to list (130)
+0016.482 (0) finding files: prso-pluploader-tmp: adding to list (131)
+0016.482 (0) finding files: jarsharnold.png: adding to list (132)
+0016.482 (0) finding files: Goldmonster poster-960x675.jpg: adding to list (133)
+0016.482 (0) finding files: Submission-1080x810.jpg: adding to list (134)
+0016.482 (0) finding files: Boss Jr.-Main.PNG: adding to list (135)
+0016.482 (0) finding files: Boss Jr.-Main-224x300.png: adding to list (136)
+0016.482 (0) finding files: Hat-Trick_Team Photo-150x150.jpg: adding to list (137)
+0016.482 (0) finding files: Mobile-Chalkboard-400x284.jpg: adding to list (138)
+0016.482 (0) finding files: #Hashtags with Hat-Trick_Main-650x1024.jpg: adding to list (139)
+0016.482 (0) finding files: CRASH_THIS_PARTY-MAIN-300x300.png: adding to list (140)
+0016.482 (0) finding files: #Hashtags with Hat-Trick_Main.jpg: adding to list (141)
+0016.482 (0) finding files: Group_Shower_Main_Poster-400x250.jpg: adding to list (142)
+0016.482 (0) finding files: Mobile-Chalkboard.jpg: adding to list (143)
+0016.482 (0) finding files: catsbyposter4-with_nose_smaller.jpg: adding to list (144)
+0016.482 (0) finding files: CRASH_THIS_PARTY-MAIN-400x284.png: adding to list (145)
+0016.482 (0) finding files: BRONSO_Presents_The_Digital_Show_Live-Main-300x300.png: adding to list (146)
+0016.482 (0) finding files: Midnight_Snack-Main-768x994.jpg: adding to list (147)
+0016.482 (0) finding files: PURGATORY_MAIN-150x150.jpg: adding to list (148)
+0016.482 (0) finding files: ImprovLA-Main-1080x1080.jpg: adding to list (149)
+0016.482 (0) finding files: 11692637_1025488080802452_8781616548321655184_n_787-400x250.png: adding to list (150)
+0016.482 (0) finding files: digital_show_live_poster.png: adding to list (151)
+0016.482 (0) finding files: ImprovLA-Main-400x250.jpg: adding to list (152)
+0016.483 (0) finding files: hashtags_with_hat-trick-1-400x250.jpg: adding to list (153)
+0016.483 (0) finding files: Gangbusters-Submission_588-400x250.png: adding to list (154)
+0016.483 (0) finding files: screen_shot_2015-06-21_at_12-45-17_pm.png: adding to list (155)
+0016.483 (0) finding files: redux: adding to list (156)
+0016.483 (0) finding files: PURGATORY_MAIN-400x284.jpg: adding to list (157)
+0016.483 (0) finding files: Mobile-Chalkboard-205x1024.jpg: adding to list (158)
+0016.483 (0) finding files: CRASH_THIS_PARTY-ORGANIZER-300x300.jpg: adding to list (159)
+0016.483 (0) finding files: Gangbusters-Main_965-300x300.png: adding to list (160)
+0016.483 (0) finding files: ImprovLA-Main-768x768.jpg: adding to list (161)
+0016.483 (0) finding files: gravity_forms: adding to list (162)
+0016.483 (0) finding files: CCABARET_main-400x284.jpg: adding to list (163)
+0016.483 (0) finding files: Midnight_Snack-Main.JPG: adding to list (164)
+0016.483 (0) finding files: IMGP0012-1024x675.jpg: adding to list (165)
+0016.483 (0) finding files: Mobile-Chalkboard-475x675.jpg: adding to list (166)
+0016.483 (0) finding files: Hat-Trick_Team Photo.jpg: adding to list (167)
+0016.483 (0) finding files: CRASH_THIS_PARTY-ORGANIZER.jpg: adding to list (168)
+0016.483 (0) finding files: Organizer-400x250.jpg: adding to list (169)
+0016.483 (0) finding files: Hat-Trick_Team Photo-221x300.jpg: adding to list (170)
+0016.483 (0) finding files: hashtags_with_hat-trick-1.jpg: adding to list (171)
+0016.483 (0) finding files: EBG BANNER BLUE BLK 450x450-400x284.jpg: adding to list (172)
+0016.483 (0) finding files: Manifesto user icon 500x500-150x150.jpg: adding to list (173)
+0016.483 (0) finding files: Are_You_Afraid_of_the Dark_People-Main-150x150.jpg: adding to list (174)
+0016.483 (0) finding files: shortcodes-ultimate-skins: adding to list (175)
+0016.483 (0) finding files: CCABARET_main-952x675.jpg: adding to list (176)
+0016.483 (0) finding files: hashtags_with_hat-trick-1-300x300.jpg: adding to list (177)
+0016.483 (0) finding files: Group_Shower_Main_Poster.jpg: adding to list (178)
+0016.483 (0) finding files: Are_You_Afraid_of_the Dark_People-Main-400x284.jpg: adding to list (179)
+0016.483 (0) finding files: #Hashtags with Hat-Trick_Main-400x284.jpg: adding to list (180)
+0016.483 (0) finding files: ImprovLA-Main-1024x1024.jpg: adding to list (181)
+0016.483 (0) finding files: IMGP0012-400x284.jpg: adding to list (182)
+0016.483 (0) finding files: 1432841255544.png: adding to list (183)
+0016.483 (0) finding files: CRASH_THIS_PARTY-ORGANIZER-400x284.jpg: adding to list (184)
+0016.484 (0) finding files: Pulled poster-805x1024.jpg: adding to list (185)
+0016.484 (0) finding files: Gangbusters-Submission_588.png: adding to list (186)
+0016.484 (0) finding files: Organizer-1024x576.jpg: adding to list (187)
+0016.484 (0) finding files: Main-150x150.jpg: adding to list (188)
+0016.484 (0) finding files: ImprovLA-Main-400x284.jpg: adding to list (189)
+0016.484 (0) finding files: EBG BANNER BLUE BLK 450x450-300x300.jpg: adding to list (190)
+0016.484 (0) finding files: 11692637_1025488080802452_8781616548321655184_n_787.png: adding to list (191)
+0016.484 (0) finding files: et_temp: adding to list (192)
+0016.484 (0) finding files: The Very Professional Show_Main_Square-400x284.jpg: adding to list (193)
+0016.484 (0) finding files: Pulled poster-236x300.jpg: adding to list (194)
+0016.484 (0) finding files: PURGATORY_MAIN-1080x1398.jpg: adding to list (195)
+0016.484 (0) finding files: Hat-Trick_Team Photo-768x1041.jpg: adding to list (196)
+0016.484 (0) finding files: Midnight_Snack-Main-232x300.jpg: adding to list (197)
+0016.484 (0) finding files: Midnight_Snack-Main-400x284.jpg: adding to list (198)
+0016.484 (0) finding files: PURGATORY_MAIN-768x994.jpg: adding to list (199)
+0016.484 (0) finding files: Gangbusters-Main_965-400x250.png: adding to list (200)
+0016.485 (0) finding files: Boss Jr.-Main-611x675.png: adding to list (201)
+0016.485 (0) finding files: CRASH_THIS_PARTY-MAIN.png: adding to list (202)
+0016.485 (0) finding files: CRASH_THIS_PARTY-MAIN-150x150.png: adding to list (203)
+0016.485 (0) finding files: Improv_Against_Humanity-Main-400x284.jpg: adding to list (204)
+0016.485 (0) finding files: Main-778x1024.jpg: adding to list (205)
+0016.485 (0) finding files: Goldmonster poster-300x232.jpg: adding to list (206)
+0016.485 (0) finding files: Pulled poster.jpg: adding to list (207)
+0016.485 (0) finding files: Manifesto user icon 500x500.jpg: adding to list (208)
+0016.485 (0) finding files: Improv_Against_Humanity-Main-400x250.jpg: adding to list (209)
+0016.485 (0) finding files: Main.jpg: adding to list (210)
+0016.485 (0) finding files: broad_strokes_copy.jpg: adding to list (211)
+0016.485 (0) finding files: 11692637_1025488080802452_8781616548321655184_n_787-768x289.png: adding to list (212)
+0016.485 (0) finding files: Organizer-300x169.jpg: adding to list (213)
+0016.486 (0) finding files: #Hashtags with Hat-Trick_Main-1080x1701.jpg: adding to list (214)
+0016.486 (0) finding files: Organizer-400x284.jpg: adding to list (215)
+0016.486 (0) finding files: EBG BANNER BLUE BLK 450x450-150x150.jpg: adding to list (216)
+0016.486 (0) finding files: ImprovLA-Main.jpg: adding to list (217)
+0016.486 (0) finding files: 12047090_1003368243048394_214888245712835666_n.jpg: adding to list (218)
+0016.486 (0) finding files: Goldmonster poster.jpg: adding to list (219)
+0016.486 (0) finding files: profile-image_a_1.png: adding to list (220)
+0016.486 (0) finding files: CRASH_THIS_PARTY-MAIN-400x250.png: adding to list (221)
+0016.486 (0) finding files: Main-1080x1421.jpg: adding to list (222)
+0016.486 (0) finding files: Improv_Against_Humanity-Main-300x102.jpg: adding to list (223)
+0016.486 (0) finding files: Improv_Against_Humanity-Main.jpg: adding to list (224)
+0016.486 (0) finding files: 2014: adding to list (225)
+0016.486 (0) finding files: Submission-1024x768.jpg: adding to list (226)
+0016.486 (0) finding files: Group_Shower_Main_Poster-400x284.jpg: adding to list (227)
+0016.486 (0) finding files: ImprovLA-Main-300x300.jpg: adding to list (228)
+0016.486 (0) Beginning creation of dump of uploads (split every: 400 Mb)
+0016.842 (0) Total entities for the zip file: 21 directories, 419 files (0 skipped as non-modified), 51.2 Mb
+0016.853 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0016.872 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0016.875 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25.1 Mb, 419 files batched, 211 (211) added so far); re-opening (prior size: 0 Kb)
+0017.242 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip.tmp: size is now: 25.20 Mb
+0017.270 (0) A useful amount of data was added after this amount of zip processing: 1.3 s (normalised: 1.3 s, rate: 19275.4 Kb/s)
+0017.280 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.3338499069214, normalised_time=1.3281204924724, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=118427808)
+0017.292 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip.tmp: 300 files added (on-disk size: 25757.8 Kb)
+0017.312 (0) Zip: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip.tmp: 400 files added (on-disk size: 25757.8 Kb)
+0023.658 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip.tmp: size is now: 51.30 Mb
+0024.065 (0) Created uploads zip (0) - 52515.1 Kb in 7.4 s (7118.9 Kb/s) (SHA1 checksum: 7b839399e6d21c83eb2278e01f2252fbf6634bd8)
+0024.071 (0) Beginning backup of other directories found in the content directory (index: 0)
+0024.073 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0024.075 (0) Looking for candidates to back up in: /home5/clubhov2/public_html/wp-content
+0024.077 (0) finding files: upgrade: skipping: excluded by options
+0024.079 (0) finding files: ._plugins: adding to list (1)
+0024.080 (0) finding files: cache: skipping: excluded by options
+0024.082 (0) finding files: uploads: skipping: this is the uploads directory
+0024.084 (0) finding files: w3tc-config: adding to list (2)
+0024.086 (0) finding files: ._themes: adding to list (3)
+0024.088 (0) finding files: index.php: adding to list (4)
+0024.089 (0) finding files: plugins: skipping: this is the plugins directory
+0024.091 (0) finding files: mu-plugins: adding to list (5)
+0024.092 (0) finding files: updraft: skipping: this is the updraft directory
+0024.094 (0) finding files: ._index.php: adding to list (6)
+0024.095 (0) finding files: install.php: adding to list (7)
+0024.097 (0) finding files: themes: skipping: this is the themes directory
+0024.325 (0) Total entities for the zip file: 2 directories, 9 files (0 skipped as non-modified), 0 Mb
+0024.341 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip.tmp: size is now: 0.00 Mb
+0024.348 (0) Created others zip (0) - 8.5 Kb in 0 s (317.7 Kb/s) (SHA1 checksum: 04dc7ca2a223639d4b10a2d080664dab3f175332)
+0024.358 (0) Saving backup status to database (elements: 8)
+0024.363 (0) Beginning creation of database dump (WordPress DB)
+0024.372 (0) Testing: /usr/bin/mysqldump
+0024.393 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0024.407 (0) Table wp_lbpd_options: Total expected rows (approximate): 4038
+0029.637 (0) Table wp_lbpd_options: Total rows added: 4036 in 5.23 seconds
+0029.659 (0) Table wp_lbpd_options: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_options.table.gz - 9754.9 Kb)
+0029.668 (0) Table wp_lbpd_users: Total expected rows (approximate): 10
+0029.672 (0) Table wp_lbpd_users: Total rows added: 10 in 0.00 seconds
+0029.674 (0) Table wp_lbpd_users: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_users.table.gz - 1.2 Kb)
+0029.680 (0) Table wp_lbpd_usermeta: Total expected rows (approximate): 187
+0029.687 (0) Table wp_lbpd_usermeta: Total rows added: 187 in 0.01 seconds
+0029.690 (0) Table wp_lbpd_usermeta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_usermeta.table.gz - 4.2 Kb)
+0029.696 (0) Table wp_lbpd_commentmeta: Total expected rows (approximate): 0
+0029.698 (0) Table wp_lbpd_commentmeta: Total rows added: 0 in 0.00 seconds
+0029.700 (0) Table wp_lbpd_commentmeta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_commentmeta.table.gz - 0.4 Kb)
+0029.706 (0) Table wp_lbpd_comments: Total expected rows (approximate): 0
+0029.709 (0) Table wp_lbpd_comments: Total rows added: 0 in 0.00 seconds
+0029.711 (0) Table wp_lbpd_comments: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_comments.table.gz - 0.5 Kb)
+0029.719 (0) Table wp_lbpd_links: Total expected rows (approximate): 0
+0029.723 (0) Table wp_lbpd_links: Total rows added: 0 in 0.00 seconds
+0029.725 (0) Table wp_lbpd_links: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_links.table.gz - 0.4 Kb)
+0029.730 (0) Table wp_lbpd_postmeta: Total expected rows (approximate): 9458
+0029.800 (0) Table wp_lbpd_postmeta: binary mysqldump finished (writes: 33) in 0.07 seconds
+0029.803 (0) Table wp_lbpd_postmeta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_postmeta.table.gz - 117 Kb)
+0029.808 (0) Table wp_lbpd_posts: Total expected rows (approximate): 1202
+0030.149 (0) Table wp_lbpd_posts: Total rows added: 1202 in 0.34 seconds
+0030.152 (0) Table wp_lbpd_posts: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_posts.table.gz - 279.2 Kb)
+0030.155 (0) Table wp_lbpd_term_relationships: Total expected rows (approximate): 1354
+0030.174 (0) Table wp_lbpd_term_relationships: Total rows added: 1354 in 0.02 seconds
+0030.176 (0) Table wp_lbpd_term_relationships: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_term_relationships.table.gz - 4.1 Kb)
+0030.179 (0) Table wp_lbpd_term_taxonomy: Total expected rows (approximate): 31
+0030.183 (0) Table wp_lbpd_term_taxonomy: Total rows added: 31 in 0.00 seconds
+0030.184 (0) Table wp_lbpd_term_taxonomy: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_term_taxonomy.table.gz - 0.7 Kb)
+0030.187 (0) Table wp_lbpd_termmeta: Total expected rows (approximate): 0
+0030.189 (0) Table wp_lbpd_termmeta: Total rows added: 0 in 0.00 seconds
+0030.190 (0) Table wp_lbpd_termmeta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_termmeta.table.gz - 0.4 Kb)
+0030.193 (0) Table wp_lbpd_terms: Total expected rows (approximate): 31
+0030.195 (0) Table wp_lbpd_terms: Total rows added: 31 in 0.00 seconds
+0030.196 (0) Table wp_lbpd_terms: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_terms.table.gz - 0.7 Kb)
+0030.200 (0) Table wp_lbpd_cf7dbplugin_st: Total expected rows (approximate): 44
+0030.202 (0) Table wp_lbpd_cf7dbplugin_st: Total rows added: 44 in 0.00 seconds
+0030.203 (0) Table wp_lbpd_cf7dbplugin_st: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_cf7dbplugin_st.table.gz - 0.6 Kb)
+0030.206 (0) Table wp_lbpd_cf7dbplugin_submits: Total expected rows (approximate): 1123
+0030.404 (0) Table wp_lbpd_cf7dbplugin_submits: Total rows added: 1123 in 0.20 seconds
+0030.406 (0) Table wp_lbpd_cf7dbplugin_submits: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_cf7dbplugin_submits.table.gz - 1912.9 Kb)
+0030.411 (0) Table wp_lbpd_nf_objectmeta: Total expected rows (approximate): 113
+0030.418 (0) Table wp_lbpd_nf_objectmeta: Total rows added: 113 in 0.01 seconds
+0030.420 (0) Table wp_lbpd_nf_objectmeta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_nf_objectmeta.table.gz - 1.5 Kb)
+0030.425 (0) Table wp_lbpd_nf_objects: Total expected rows (approximate): 8
+0030.428 (0) Table wp_lbpd_nf_objects: Total rows added: 8 in 0.00 seconds
+0030.430 (0) Table wp_lbpd_nf_objects: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_nf_objects.table.gz - 0.3 Kb)
+0030.434 (0) Table wp_lbpd_nf_relationships: Total expected rows (approximate): 4
+0030.437 (0) Table wp_lbpd_nf_relationships: Total rows added: 4 in 0.00 seconds
+0030.438 (0) Table wp_lbpd_nf_relationships: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_nf_relationships.table.gz - 0.4 Kb)
+0030.444 (0) Table wp_lbpd_ninja_forms_fav_fields: Total expected rows (approximate): 17
+0030.449 (0) Table wp_lbpd_ninja_forms_fav_fields: Total rows added: 17 in 0.00 seconds
+0030.450 (0) Table wp_lbpd_ninja_forms_fav_fields: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_ninja_forms_fav_fields.table.gz - 2.6 Kb)
+0030.455 (0) Table wp_lbpd_ninja_forms_fields: Total expected rows (approximate): 11
+0030.458 (0) Table wp_lbpd_ninja_forms_fields: Total rows added: 11 in 0.00 seconds
+0030.460 (0) Table wp_lbpd_ninja_forms_fields: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_ninja_forms_fields.table.gz - 1.4 Kb)
+0030.464 (0) Table wp_lbpd_participants_database: Total expected rows (approximate): 38
+0030.478 (0) Table wp_lbpd_participants_database: Total rows added: 38 in 0.01 seconds
+0030.481 (0) Table wp_lbpd_participants_database: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_participants_database.table.gz - 12.3 Kb)
+0030.486 (0) Table wp_lbpd_participants_database_fields: Total expected rows (approximate): 22
+0030.492 (0) Table wp_lbpd_participants_database_fields: Total rows added: 22 in 0.00 seconds
+0030.494 (0) Table wp_lbpd_participants_database_fields: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_participants_database_fields.table.gz - 1.6 Kb)
+0030.499 (0) Table wp_lbpd_participants_database_groups: Total expected rows (approximate): 5
+0030.502 (0) Table wp_lbpd_participants_database_groups: Total rows added: 5 in 0.00 seconds
+0030.504 (0) Table wp_lbpd_participants_database_groups: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_participants_database_groups.table.gz - 0.5 Kb)
+0030.509 (0) Table wp_lbpd_phppc_functions: Total expected rows (approximate): 1
+0030.512 (0) Table wp_lbpd_phppc_functions: Total rows added: 1 in 0.00 seconds
+0030.514 (0) Table wp_lbpd_phppc_functions: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_phppc_functions.table.gz - 0.7 Kb)
+0030.519 (0) Table wp_lbpd_rg_form: Total expected rows (approximate): 7
+0030.522 (0) Table wp_lbpd_rg_form: Total rows added: 7 in 0.00 seconds
+0030.524 (0) Table wp_lbpd_rg_form: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_form.table.gz - 0.6 Kb)
+0030.528 (0) Table wp_lbpd_rg_form_meta: Total expected rows (approximate): 7
+0030.534 (0) Table wp_lbpd_rg_form_meta: Total rows added: 7 in 0.00 seconds
+0030.536 (0) Table wp_lbpd_rg_form_meta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_form_meta.table.gz - 6.8 Kb)
+0030.541 (0) Table wp_lbpd_rg_form_view: Total expected rows (approximate): 24
+0030.543 (0) Table wp_lbpd_rg_form_view: Total rows added: 24 in 0.00 seconds
+0030.545 (0) Table wp_lbpd_rg_form_view: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_form_view.table.gz - 0.8 Kb)
+0030.548 (0) Table wp_lbpd_rg_incomplete_submissions: Total expected rows (approximate): 0
+0030.550 (0) Table wp_lbpd_rg_incomplete_submissions: Total rows added: 0 in 0.00 seconds
+0030.551 (0) Table wp_lbpd_rg_incomplete_submissions: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_incomplete_submissions.table.gz - 0.4 Kb)
+0030.555 (0) Table wp_lbpd_rg_lead: Total expected rows (approximate): 36
+0030.560 (0) Table wp_lbpd_rg_lead: Total rows added: 36 in 0.00 seconds
+0030.561 (0) Table wp_lbpd_rg_lead: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead.table.gz - 2 Kb)
+0030.565 (0) Table wp_lbpd_rg_lead_detail: Total expected rows (approximate): 730
+0030.584 (0) Table wp_lbpd_rg_lead_detail: Total rows added: 730 in 0.02 seconds
+0030.585 (0) Table wp_lbpd_rg_lead_detail: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_detail.table.gz - 11.5 Kb)
+0030.589 (0) Table wp_lbpd_rg_lead_detail_long: Total expected rows (approximate): 46
+0030.592 (0) Table wp_lbpd_rg_lead_detail_long: Total rows added: 46 in 0.00 seconds
+0030.593 (0) Table wp_lbpd_rg_lead_detail_long: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_detail_long.table.gz - 5.5 Kb)
+0030.597 (0) Table wp_lbpd_rg_lead_meta: Total expected rows (approximate): 0
+0030.599 (0) Table wp_lbpd_rg_lead_meta: Total rows added: 0 in 0.00 seconds
+0030.600 (0) Table wp_lbpd_rg_lead_meta: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_meta.table.gz - 0.4 Kb)
+0030.603 (0) Table wp_lbpd_rg_lead_notes: Total expected rows (approximate): 0
+0030.605 (0) Table wp_lbpd_rg_lead_notes: Total rows added: 0 in 0.00 seconds
+0030.606 (0) Table wp_lbpd_rg_lead_notes: finishing file (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_notes.table.gz - 0.4 Kb)
+0030.610 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_options.table.gz (1/32): adding to final database dump
+0035.152 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_users.table.gz (2/32): adding to final database dump
+0035.155 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_usermeta.table.gz (3/32): adding to final database dump
+0035.158 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_commentmeta.table.gz (4/32): adding to final database dump
+0035.159 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_comments.table.gz (5/32): adding to final database dump
+0035.160 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_links.table.gz (6/32): adding to final database dump
+0035.162 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_postmeta.table.gz (7/32): adding to final database dump
+0035.199 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_posts.table.gz (8/32): adding to final database dump
+0035.312 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_term_relationships.table.gz (9/32): adding to final database dump
+0035.321 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_term_taxonomy.table.gz (10/32): adding to final database dump
+0035.322 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_termmeta.table.gz (11/32): adding to final database dump
+0035.323 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_terms.table.gz (12/32): adding to final database dump
+0035.325 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_cf7dbplugin_st.table.gz (13/32): adding to final database dump
+0035.326 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_cf7dbplugin_submits.table.gz (14/32): adding to final database dump
+0035.467 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_nf_objectmeta.table.gz (15/32): adding to final database dump
+0035.470 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_nf_objects.table.gz (16/32): adding to final database dump
+0035.471 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_nf_relationships.table.gz (17/32): adding to final database dump
+0035.472 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_ninja_forms_fav_fields.table.gz (18/32): adding to final database dump
+0035.474 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_ninja_forms_fields.table.gz (19/32): adding to final database dump
+0035.475 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_participants_database.table.gz (20/32): adding to final database dump
+0035.479 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_participants_database_fields.table.gz (21/32): adding to final database dump
+0035.481 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_participants_database_groups.table.gz (22/32): adding to final database dump
+0035.482 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_phppc_functions.table.gz (23/32): adding to final database dump
+0035.483 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_form.table.gz (24/32): adding to final database dump
+0035.484 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_form_meta.table.gz (25/32): adding to final database dump
+0035.487 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_form_view.table.gz (26/32): adding to final database dump
+0035.488 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_incomplete_submissions.table.gz (27/32): adding to final database dump
+0035.489 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead.table.gz (28/32): adding to final database dump
+0035.491 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_detail.table.gz (29/32): adding to final database dump
+0035.498 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_detail_long.table.gz (30/32): adding to final database dump
+0035.500 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_meta.table.gz (31/32): adding to final database dump
+0035.501 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db-table-wp_lbpd_rg_lead_notes.table.gz (32/32): adding to final database dump
+0035.502 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz: finished writing out complete database file (12080 Kb)
+0035.568 (0) Total database tables backed up: 32 (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz, size: 12409944, checksum (SHA1): 0210c631aeaa0a032c85cf5c065e8e17aa0cafa0)
+0035.574 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0035.575 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0035.575 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0035.576 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip: others: This file has not yet been successfully uploaded: will queue
+0035.577 (0) backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz: db: This file has not yet been successfully uploaded: will queue
+0035.578 (0) Saving backup history. Total backup size: 103.1 Mb
+0035.581 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0035.584 (0) Cloud backup selection (1/1): dropbox (last)
+0035.584 (0) Beginning dispatch of backup to remote (dropbox)
+0035.585 (0) Dropbox: begin cloud upload
+0035.592 (0) Dropbox: access gained
+0035.811 (0) Dropbox quota usage: normal=600.3 Mb, shared=2779.9 Mb, total=3840 Mb, available=459.8 Mb
+0035.813 (0) Dropbox: Attempt to upload: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip to: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip
+0037.951 (0) Dropbox chunked upload: 3 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 1048576)
+0042.078 (0) Dropbox chunked upload: 6 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 2097152)
+0044.973 (0) Dropbox chunked upload: 9 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 3145728)
+0051.472 (0) Dropbox chunked upload: 12 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 4194304)
+0053.561 (0) Dropbox chunked upload: 15 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 5242880)
+0055.810 (0) Dropbox chunked upload: 18 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 6291456)
+0059.782 (0) Dropbox chunked upload: 21.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 7340032)
+0063.486 (0) Dropbox chunked upload: 24.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 8388608)
+0065.548 (0) Dropbox chunked upload: 27.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 9437184)
+0069.083 (0) Dropbox chunked upload: 30.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 10485760)
+0072.897 (0) Dropbox chunked upload: 33.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 11534336)
+0075.806 (0) Dropbox chunked upload: 36.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 12582912)
+0078.456 (0) Dropbox chunked upload: 39.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 13631488)
+0081.991 (0) Dropbox chunked upload: 42.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 14680064)
+0086.661 (0) Dropbox chunked upload: 45.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 15728640)
+0089.137 (0) Dropbox chunked upload: 48.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 16777216)
+0091.059 (0) Dropbox chunked upload: 51.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 17825792)
+0094.740 (0) Dropbox chunked upload: 54.1 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 18874368)
+0099.248 (0) Dropbox chunked upload: 57.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 19922944)
+0102.677 (0) Dropbox chunked upload: 60.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 20971520)
+0104.532 (0) Dropbox chunked upload: 63.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 22020096)
+0108.645 (0) Dropbox chunked upload: 66.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 23068672)
+0112.720 (0) Dropbox chunked upload: 69.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 24117248)
+0115.744 (0) Dropbox chunked upload: 72.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 25165824)
+0117.702 (0) Dropbox chunked upload: 75.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 26214400)
+0121.257 (0) Dropbox chunked upload: 78.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 27262976)
+0127.473 (0) Dropbox chunked upload: 81.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 28311552)
+0130.567 (0) Dropbox chunked upload: 84.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 29360128)
+0132.592 (0) Dropbox chunked upload: 87.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 30408704)
+0136.307 (0) Dropbox chunked upload: 90.2 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 31457280)
+0140.517 (0) Dropbox chunked upload: 93.3 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 32505856)
+0144.146 (0) Dropbox chunked upload: 96.3 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 33554432)
+0145.846 (0) Dropbox chunked upload: 99.3 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 34603008)
+0148.457 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAEyX13fbBRdHZg, 34857734)
+0150.335 (0) Recording as successfully uploaded: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip (77b7d7f21b501f8291374af3a33e7b4b)
+0150.349 (0) Deleting local file: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip: OK
+0150.351 (0) Dropbox: File upload success (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-plugins.zip): 34040 Kb in 114s (297 Kb/s)
+0150.578 (0) Dropbox quota usage: normal=633.6 Mb, shared=2779.9 Mb, total=3840 Mb, available=426.5 Mb
+0150.580 (0) Dropbox: Attempt to upload: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip to: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip
+0152.908 (0) Dropbox chunked upload: 14.8 % uploaded (AAAAAAAAAE273rUcDMQcKw, 1048576)
+0154.890 (0) Dropbox chunked upload: 29.7 % uploaded (AAAAAAAAAE273rUcDMQcKw, 2097152)
+0158.771 (0) Dropbox chunked upload: 44.5 % uploaded (AAAAAAAAAE273rUcDMQcKw, 3145728)
+0161.572 (0) Dropbox chunked upload: 59.3 % uploaded (AAAAAAAAAE273rUcDMQcKw, 4194304)
+0163.673 (0) Dropbox chunked upload: 74.1 % uploaded (AAAAAAAAAE273rUcDMQcKw, 5242880)
+0166.564 (0) Dropbox chunked upload: 89 % uploaded (AAAAAAAAAE273rUcDMQcKw, 6291456)
+0171.651 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAE273rUcDMQcKw, 7072415)
+0174.286 (0) Recording as successfully uploaded: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip (1c1bae0b19179d9e816e97569c20cebf)
+0174.293 (0) Deleting local file: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip: OK
+0174.295 (0) Dropbox: File upload success (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-themes.zip): 6906 Kb in 23s (291 Kb/s)
+0174.851 (0) Dropbox quota usage: normal=640.3 Mb, shared=2779.9 Mb, total=3840 Mb, available=419.8 Mb
+0174.853 (0) Dropbox: Attempt to upload: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip to: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip
+0177.148 (0) Dropbox chunked upload: 1.9 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 1048576)
+0181.158 (0) Dropbox chunked upload: 3.9 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 2097152)
+0185.648 (0) Dropbox chunked upload: 5.8 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 3145728)
+0188.543 (0) Dropbox chunked upload: 7.8 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 4194304)
+0190.869 (0) Dropbox chunked upload: 9.7 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 5242880)
+0194.740 (0) Dropbox chunked upload: 11.7 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 6291456)
+0199.491 (0) Dropbox chunked upload: 13.6 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 7340032)
+0202.997 (0) Dropbox chunked upload: 15.6 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 8388608)
+0204.341 (0) Dropbox chunked upload: 17.5 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 9437184)
+0206.828 (0) Dropbox chunked upload: 19.5 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 10485760)
+0210.518 (0) Dropbox chunked upload: 21.4 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 11534336)
+0213.679 (0) Dropbox chunked upload: 23.4 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 12582912)
+0214.750 (0) Dropbox chunked upload: 25.3 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 13631488)
+0218.137 (0) Dropbox chunked upload: 27.3 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 14680064)
+0221.229 (0) Dropbox chunked upload: 29.2 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 15728640)
+0224.414 (0) Dropbox chunked upload: 31.2 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 16777216)
+0225.557 (0) Dropbox chunked upload: 33.1 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 17825792)
+0228.963 (0) Dropbox chunked upload: 35.1 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 18874368)
+0231.588 (0) Dropbox chunked upload: 37 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 19922944)
+0234.635 (0) Dropbox chunked upload: 39 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 20971520)
+0236.775 (0) Dropbox chunked upload: 40.9 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 22020096)
+0241.603 (0) Dropbox chunked upload: 42.9 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 23068672)
+0246.110 (0) Dropbox chunked upload: 44.8 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 24117248)
+0249.620 (0) Dropbox chunked upload: 46.8 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 25165824)
+0250.950 (0) Dropbox chunked upload: 48.7 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 26214400)
+0253.442 (0) Dropbox chunked upload: 50.7 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 27262976)
+0258.961 (0) Dropbox chunked upload: 52.6 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 28311552)
+0262.042 (0) Dropbox chunked upload: 54.6 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 29360128)
+0264.034 (0) Dropbox chunked upload: 56.5 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 30408704)
+0267.810 (0) Dropbox chunked upload: 58.5 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 31457280)
+0273.238 (0) Dropbox chunked upload: 60.4 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 32505856)
+0276.686 (0) Dropbox chunked upload: 62.4 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 33554432)
+0278.789 (0) Dropbox chunked upload: 64.3 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 34603008)
+0282.561 (0) Dropbox chunked upload: 66.3 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 35651584)
+0287.159 (0) Dropbox chunked upload: 68.2 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 36700160)
+0289.460 (0) Dropbox chunked upload: 70.2 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 37748736)
+0291.707 (0) Dropbox chunked upload: 72.1 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 38797312)
+0294.747 (0) Dropbox chunked upload: 74.1 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 39845888)
+0300.849 (0) Dropbox chunked upload: 76 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 40894464)
+0304.224 (0) Dropbox chunked upload: 78 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 41943040)
+0305.432 (0) Dropbox chunked upload: 79.9 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 42991616)
+0309.173 (0) Dropbox chunked upload: 81.9 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 44040192)
+0313.235 (0) Dropbox chunked upload: 83.8 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 45088768)
+0316.131 (0) Dropbox chunked upload: 85.8 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 46137344)
+0318.207 (0) Dropbox chunked upload: 87.7 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 47185920)
+0320.362 (0) Dropbox chunked upload: 89.7 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 48234496)
+0324.440 (0) Dropbox chunked upload: 91.6 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 49283072)
+0327.316 (0) Dropbox chunked upload: 93.6 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 50331648)
+0329.474 (0) Dropbox chunked upload: 95.5 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 51380224)
+0333.379 (0) Dropbox chunked upload: 97.5 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 52428800)
+0339.479 (0) Dropbox chunked upload: 99.4 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 53477376)
+0345.829 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAE5Xtd3H1e4XKA, 53775463)
+0348.638 (0) Recording as successfully uploaded: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip (ab1505291a08e77a985791911782a5a2)
+0348.698 (0) Deleting local file: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip: OK
+0348.700 (0) Dropbox: File upload success (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-uploads.zip): 52515 Kb in 173s (302 Kb/s)
+0348.955 (0) Dropbox quota usage: normal=754.7 Mb, shared=2779.9 Mb, total=3840 Mb, available=305.4 Mb
+0348.957 (0) Dropbox: Attempt to upload: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip to: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip
+0349.531 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAFHskJ6WOtkKXA, 8712)
+0350.430 (0) Recording as successfully uploaded: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip (5fa05e3f6cb27b8a2d743b6cb02821c1)
+0350.434 (0) Deleting local file: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip: OK
+0350.434 (0) Dropbox: File upload success (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-others.zip): 8 Kb in 1s (5 Kb/s)
+0350.670 (0) Dropbox quota usage: normal=754.7 Mb, shared=2779.9 Mb, total=3840 Mb, available=305.4 Mb
+0350.672 (0) Dropbox: Attempt to upload: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz to: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz
+0352.559 (0) Dropbox chunked upload: 8.4 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 1048576)
+0357.505 (0) Dropbox chunked upload: 16.9 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 2097152)
+0361.666 (0) Dropbox chunked upload: 25.3 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 3145728)
+0364.754 (0) Dropbox chunked upload: 33.8 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 4194304)
+0366.900 (0) Dropbox chunked upload: 42.2 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 5242880)
+0372.714 (0) Dropbox chunked upload: 50.7 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 6291456)
+0376.961 (0) Dropbox chunked upload: 59.1 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 7340032)
+0380.795 (0) Dropbox chunked upload: 67.6 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 8388608)
+0382.681 (0) Dropbox chunked upload: 76 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 9437184)
+0386.899 (0) Dropbox chunked upload: 84.5 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 10485760)
+0391.477 (0) Dropbox chunked upload: 92.9 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 11534336)
+0394.310 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAFLATYb3BO8rjQ, 12409944)
+0397.523 (0) Recording as successfully uploaded: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz (fec41347a1baf07e191a6c0c79770850)
+0397.529 (0) Deleting local file: backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz: OK
+0397.530 (0) Dropbox: File upload success (backup_2016-03-20-2048_The_Clubhouse_e10bb3205381-db.gz): 12119 Kb in 46s (258 Kb/s)
+0397.532 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0397.534 (0) Number of backup sets in history: 4; groups (db): 1
+0397.535 (0) Examining (for databases) backup set with group_id=0, nonce=e10bb3205381, datestamp=1458532081 (Mar 21 2016 03:48:01)
+0397.536 (0) This backup set is the backup set just made, so will not be deleted.
+0397.536 (0) Examining (for databases) backup set with group_id=0, nonce=008dbddf53c6, datestamp=1458531902 (Mar 21 2016 03:45:02)
+0397.537 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.538 (0) Examining (for databases) backup set with group_id=0, nonce=501c0edf0602, datestamp=1458531639 (Mar 21 2016 03:40:39)
+0397.539 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.539 (0) Examining (for databases) backup set with group_id=0, nonce=9eefa1dadc9c, datestamp=1457760664 (Mar 12 2016 05:31:04)
+0397.540 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.541 (0) Number of backup sets in history: 4; groups (files): 1
+0397.542 (0) Examining (for files) backup set with nonce=e10bb3205381, datestamp=1458532081 (Mar 21 2016 03:48:01)
+0397.542 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0397.543 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0397.543 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0397.544 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0397.544 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.544 (0) Examining (for files) backup set with nonce=008dbddf53c6, datestamp=1458531902 (Mar 21 2016 03:45:02)
+0397.545 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.546 (0) Examining (for files) backup set with nonce=501c0edf0602, datestamp=1458531639 (Mar 21 2016 03:40:39)
+0397.547 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.547 (0) Examining (for files) backup set with nonce=9eefa1dadc9c, datestamp=1457760664 (Mar 12 2016 05:31:04)
+0397.548 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0397.549 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0397.552 (0) Resume backup (e10bb3205381, 0): finish run
+0397.553 (0) Decremented the semaphore (fd) by 1
+0397.554 (0) Semaphore (fd) still locked
+0397.555 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0397.558 (0) No email will/can be sent - the user has not configured an email address.
+0397.559 (0) The backup apparently succeeded and is now complete

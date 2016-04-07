@@ -1,0 +1,2 @@
+[06-Oct-2015 05:59:53 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/clubhov2/public_html/wp-content/plugins/hello.php on line 60
+[22-Oct-2015 16:51:16 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/clubhov2/public_html/wp-content/plugins/hello.php on line 60
